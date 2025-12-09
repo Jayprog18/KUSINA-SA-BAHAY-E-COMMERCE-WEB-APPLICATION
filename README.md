@@ -16,12 +16,12 @@
 **Project Overview**
 KusinaSaBahay is a fully functional e-commerce web application built with PHP, MySQL, HTML, CSS, and JavaScript. The system implements complete CRUD operations with secure user authentication and session management for a Filipino cuisine ordering platform. 
 
-**Key Objectives Met:** 
-✅ User Registration with validation and duplicate prevention 
-✅ Secure Login Authentication with session management 
-✅ Logout Functionality with proper session clearing 
-✅ Clean Frontend Design with intuitive navigation 
-✅ Modular code organization 
+**Key Objectives Met:**   
+✅ User Registration with validation and duplicate prevention    
+✅ Secure Login Authentication with session management    
+✅ Logout Functionality with proper session clearing    
+✅ Clean Frontend Design with intuitive navigation    
+✅ Modular code organization    
 ✅ Complete documentation with screenshots 
 
 **Features** 
